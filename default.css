@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 body{ 
-	font-family: 'Baloo Tammudu', cursive;
-}
+font-family: 'Lato', sans-serif;
+} 
 @media print { 
 	body {
-	font-family: 'Baloo Tammudu', cursive;
+font-family: 'Lato', sans-serif;
 	}
 	body>header {
 display:none;
