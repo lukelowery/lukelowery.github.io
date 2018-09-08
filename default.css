@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 body{ 
-font-family: 'Lato', sans-serif;
+	font-family: 'Lato', sans-serif;
 } 
 @media print { 
 	body {
-font-family: 'Lato', sans-serif;
+		font-family: 'Lato', sans-serif;
 	}
 	body>header {
 display:none;
